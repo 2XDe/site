@@ -8,9 +8,13 @@ categories:
   - Μορφές
 tags:
   - Steve Mann
+  - EyeTap
+  - Eye Glass
+  - Wearable Computing
   - Wearable Computer  
   - Mediated Reality
   - Augmented Reality
+  - Computer-Mediated Reality
 ---
 
 {% include_relative bio-steve-mann.md %}
